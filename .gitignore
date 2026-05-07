@@ -12,6 +12,17 @@ dist
 dist-ssr
 *.local
 
+# Pipeline artifacts
+__pycache__/
+*.pyc
+*.pkl
+embeddings/
+chunks/
+maps/
+manifests/
+deltas/
+public/manifests/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

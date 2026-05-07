@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "0bb0634e76ee4985",
+    "type": "split",
+    "children": [
+      {
+        "id": "1611a8482fa8b7cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83c9ed0203ff32cd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "282e29d5264da730",
+    "type": "split",
+    "children": [
+      {
+        "id": "11b7fd31b3ffeb8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be63595a156d5bf0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "fc4dba4287457969",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "02d579dfdd68ab5d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "26956bf9a172c135",
+    "type": "split",
+    "children": [
+      {
+        "id": "98d20874c9989c6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b80972a92d9448bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti"
+            }
+          },
+          {
+            "id": "6a6d79de00fff94a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita"
+            }
+          },
+          {
+            "id": "ec7bfe9f4e16e8fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "8907dda920e8ecd8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tutte le proprietà"
+            }
+          },
+          {
+            "id": "4dc6769cc8bf5086",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false
+    }
+  },
+  "active": "83c9ed0203ff32cd",
+  "lastOpenFiles": [
+    "wiki/llm-agents.md",
+    "wiki/rag-vs-llm-vs-llm-wiki.md",
+    "wiki/rag.md",
+    "crea un collegamento.md",
+    "wiki/index.md",
+    "wiki/openclaw.md",
+    "wiki/memex.md",
+    "wiki/llm-wiki-pattern-deep-dive.md",
+    "raw/Navigating the World of Openclaw_ The Pros and Cons of This AI Tool.md",
+    "raw/What is LLM Wiki Pattern_ Persistent Knowledge with LLM Wikis.md",
+    "Clippings/What is LLM Wiki Pattern? Persistent Knowledge with LLM Wikis.md",
+    "wiki/reinforcement-learning.md",
+    "wiki/log.md",
+    "wiki/context-window-management.md",
+    "wiki/langchain-ecosystem.md",
+    "wiki/llm-wiki.md",
+    "wiki/rag-is-dead-llm-wiki.md",
+    "wiki/ai-systems-evolution.md",
+    "wiki/langchain-deep-agents.md",
+    "CLAUDE.md",
+    "raw/RAG is Dead. Karpathy’s LLM Wiki is the future  Project Explained.md",
+    "raw/From Hardcoded Tools to Reinforcement Learning to LLM Agents_ The Evolution of AI Systems.md",
+    "Clippings",
+    "raw/LangChain Just Released Deep Agents — And It Changes How You Build AI Systems.md",
+    "Benvenuto.md",
+    "templates",
+    "wiki",
+    "raw"
+  ]
+}
